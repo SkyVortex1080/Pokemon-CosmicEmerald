@@ -1,0 +1,1 @@
+This just toggles whether the music will change when the Bike is activated or the normal area theme continues to play instead.

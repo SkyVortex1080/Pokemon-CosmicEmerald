@@ -1,0 +1,2 @@
+This allows all Legendaries to be used at the Battle Frontier.
+However, it bans Unown because of game limits (had to pick something, there is no 'None' option).

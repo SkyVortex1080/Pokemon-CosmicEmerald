@@ -1,0 +1,3 @@
+These are for switching Deoxys between the designated forms. They are completely safe to use on this game, for example you could patch the same one on twice by accident and it will make no difference. One can be used after the other in any order.
+
+Note: You only need to patch the "DeoxysSpeed" one onto your ROM if you have already used the "Normal" one before and want the Speed Form back again. They are meant to function as a sort of on/off switch
